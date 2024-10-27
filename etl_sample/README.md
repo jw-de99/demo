@@ -1,3 +1,5 @@
+created by bee jian wei
+
 1. PROJECT OVERVIEW:
     The goal of this project is to create an ETL pipeline in Python/SQL that demonstrate the ingestion, transformation, and loading of raw data from sources (CSV and JSON files) into a SQL database. The pipeline should be modular, reusable, and extensible, allowing for easy addition of new data sources and storage options.
 ___________________________________________________________________________________
