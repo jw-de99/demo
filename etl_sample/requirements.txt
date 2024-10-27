@@ -1,0 +1,5 @@
+pandas==2
+sqlalchemy==1.4.47
+psycopg2-binary==2.9.6 # For PostgreSQL database
+pytest==7.2.0          # For unit testing
+jupyter==1.0.0         # For demostration
